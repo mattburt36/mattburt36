@@ -33,6 +33,7 @@ I'm passionate about embedded systems and love learning through hands-on experie
 - 📫 **Reach me at:** 36slices@gmail.com
 
 ### 📊 GitHub Stats
+- Most of my current activity is provately owned IP but I hope to increase my stats in the coming months!
 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattburt36&show_icons=true&theme=dark)
 
