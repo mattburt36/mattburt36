@@ -12,25 +12,13 @@ I'm passionate about embedded systems and love learning through hands-on experie
 **Embedded Systems:**
 - Zephyr RTOS • Embedded Linux • Nordic nRF Connect SDK
 
-**Hardware Platforms:**
-- Nordic nRF9160, nRF52840, Thingy91 • Intel UpBoards • Arduino
-
-**Networking & Protocols:**
-- MQTT • UDP • TCP/IP • CoAP • HTTP/HTTPS
-- Bluetooth LE • Wi-Fi • Thread • Cellular IoT
-- SPI • I2C • UART • CAN • RS485
-
-**Development Tools:**
-- Git • Nordic nRF Connect SDK • Segger Embedded Studio
-- Docker • CI/CD pipelines • KiCAD • Design Spark
-
 ### 🎯 Current Focus
 
 - 🔭 **Currently working on:** Maintaining 1000+ embedded Linux devices in airport cargo environments
 - 🌱 **Learning:** Advanced power optimization for solar-powered IoT gateways
 - 🤝 **Looking to collaborate on:** Open-source embedded projects using Nordic platforms
 - 💬 **Ask me about:** Nordic SDK, Zephyr RTOS, cellular IoT, or embedded C programming
-- 📫 **Reach me at:** 36slices@gmail.com
+- 📫 **Reach me at:** mattb@hoptech.co.nz
 
 ### 📊 GitHub Stats
 - Most of my current activity is privately owned IP but I hope to increase my stats in the coming months!
