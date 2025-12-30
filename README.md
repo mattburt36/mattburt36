@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Matthew Burton
+# Hi there! I'm Matthew Burton
 
 ## Embedded Software Engineer
 
@@ -9,12 +9,7 @@ I'm passionate about embedded systems and love learning through hands-on experie
 - **Looking to collaborate on:** Open-source embedded projects using Nordic platforms
 - **Ask me about:** Nordic SDK, Zephyr RTOS, cellular IoT, or embedded C programming
 - **Reach me at:** mattb@hoptech.co.nz
-
-### GitHub Stats
-- Most of my current activity is privately owned IP
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattburt36&show_icons=true&theme=dark)
-
+- 
 ### Featured Projects
 
 #### [Fine-Grained Positioning System]
