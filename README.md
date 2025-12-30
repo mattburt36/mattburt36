@@ -1,5 +1,3 @@
-# Hi there! I'm Matthew Burton
-
 ## Embedded Software Engineer
 
 I'm passionate about embedded systems and love learning through hands-on experience.
